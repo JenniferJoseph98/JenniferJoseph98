@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenniferjoseph98" alt="jenniferjoseph98" /></a> </p>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **redux**
 
-- 💬 Ask me about **JS,HTML,CSS,React Js**
+- 💬 Ask me about **JS,HTML,CSS,React Js,Node JS,MongoDB,MySQL**
 
 - 📫 How to reach me **honeyjen1607@gmail.com**
 
